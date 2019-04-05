@@ -36,6 +36,6 @@ array.uniq
 end
 
 def unsing_flatten(array)
-  array.flatton(array)
+  array.flatten(array)
 
 end
